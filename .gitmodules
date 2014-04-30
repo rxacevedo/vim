@@ -34,3 +34,6 @@
 [submodule "bundle/vim-arduino-syntax"]
 	path = bundle/vim-arduino-syntax
 	url = https://github.com/sudar/vim-arduino-syntax
+[submodule "bundle/vim-tomorrow-night"]
+	path = bundle/vim-tomorrow-night
+	url = https://github.com/wjakob/vim-tomorrow-night.git
