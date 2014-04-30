@@ -1,0 +1,3 @@
+[submodule "bundle/vim-execrus"]
+	path = bundle/vim-execrus
+	url = https://github.com/Sirupsen/vim-execrus.git
